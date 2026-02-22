@@ -28,9 +28,7 @@ Moves toward SaaS-level deployment
 
 Exploring how autonomous AI agents can assist business intelligence and strategic decision-making.
 
-🏗 Key Projects
-
-AutoInsight – Multi-agent AI analytics platform with autonomous data processing and reporting
+🏗 Key Projects:
 
 CineX Streaming Platform – Full-stack streaming application with JWT authentication and TMDB API integration
 

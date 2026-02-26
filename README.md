@@ -35,7 +35,7 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🤖 **[Market Research Crew](https://github.com/syed-kaif07/market-research-crew)** | 5-agent AI system that generates full market research reports autonomously | CrewAI · Groq · LLaMA 3.3 70B |
-| 🎌 **Anime Hub** *(coming soon)* | Open-source anime streaming platform — built from PRD to deployment using vibe coding | Next.js · TypeScript · Tailwind · PostgreSQL |
+| 🎌 **Anime Hub** | Open-source anime streaming platform — built from PRD to deployment using vibe coding | Next.js · TypeScript · Tailwind · PostgreSQL |
 | 🎬 **[CineX Streaming Platform](https://github.com/syed-kaif07/cinex-streaming-platform)** | Netflix-inspired full-stack streaming app with JWT auth & TMDB integration | Next.js · Node.js · MongoDB |
 | 📊 **AutoInsight** *(in progress)* | Multi-agent analytics platform with predictive modeling & AI-generated reports | Django · PostgreSQL · CrewAI |
 

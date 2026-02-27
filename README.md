@@ -12,7 +12,7 @@
 
 ## 🧠 What I Actually Do
 
-I build **AI-powered systems** and **full-stack applications** — not tutorial clones.
+I build **AI-powered systems** and **full-stack applications** —
 
 My focus is on intelligent automation: systems where AI agents make decisions, generate insights, and take action without constant human input. I also practice **vibe coding** — using AI tools to rapidly design, prototype, and ship production-ready apps from idea to deployment. I care about shipping things that work in the real world, not just on localhost.
 

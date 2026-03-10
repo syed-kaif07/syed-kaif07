@@ -21,7 +21,7 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 ## 🔥 Currently Building
 
 ### 🚀 AutoInsight — AI-Powered Analytics Platform
-> *An autonomous multi-agent system that replaces entire data analyst workflows*
+> *An autonomous multi-agent system that replaces entire data analyst workflows, where 5 agents work together*
 
 - 🤖 AI agents that **automatically collect, clean, and analyze** data
 - 🧠 Dynamic model selection — picks the best ML model per dataset

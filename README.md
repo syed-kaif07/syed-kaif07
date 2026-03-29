@@ -78,7 +78,7 @@ I'm not looking to just write code — I want to build things that matter.
 
 <div align="center">
 
-**📬 Let's connect → [LinkedIn](https://linkedin.com/in/syed-kaifuddin) · [GitHub](https://github.com/syed-kaif07)**
+**📬 Let's connect → [LinkedIn](https://www.linkedin.com/in/syed-kaifuddin-113955253?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/syed-kaif07)**
 
 *"Build systems that think, not just systems that run."*
 

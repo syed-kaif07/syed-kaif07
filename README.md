@@ -13,20 +13,24 @@
 ## 🧠 What I Actually Do
 
 I build **AI-powered systems** and **full-stack applications** —
-
-My focus is on intelligent automation: systems where AI agents make decisions, generate insights, and take action without constant human input. I also practice **vibe coding** — using AI tools to rapidly design, prototype, and ship production-ready apps from idea to deployment. 
+My focus is on intelligent automation: systems where AI agents make decisions, generate insights, and take action without constant human input. I also practice **vibe coding** — using AI tools to rapidly design, prototype, and ship production-ready apps from idea to deployment.
 
 ---
 
 ## 🔥 Currently Building
 
-### 🚀 AutoInsight — AI-Powered Analytics Platform
-> *An autonomous multi-agent system that replaces entire data analyst workflows, where 5 agents work together*
+### 🏥 VoxCare — AI Voice-Based Healthcare Follow-Up Automation System
 
-- 🤖 AI agents that **automatically collect, clean, and analyze** data
-- 🧠 Dynamic model selection — picks the best ML model per dataset
-- 📊 Generates **explainable, business-ready reports** autonomously
-- ☁️ Targeting **SaaS-level deployment** with Django + PostgreSQL backend
+> *A modular, multi-agent system that automates hospital follow-up workflows using voice AI — so healthcare staff can focus on patients, not phones*
+
+- 🎙️ **Voice-first patient interaction** — AI initiates/receives calls, converses naturally, supports multiple languages
+- 🤖 **5-agent CrewAI pipeline** — Intake → Extraction → Triage → Action → Summary agents work in sequence
+- 🧠 **Hybrid decision engine** — rule-based logic + LLM reasoning classifies risk as Low / Medium / High
+- 📞 **Automated escalation** — high-risk cases trigger instant alerts and summaries to healthcare staff
+- 📊 **Live dashboard** — real-time patient list, risk levels, call logs, and alerts via Streamlit
+- ☁️ **Built for scale** — modular, API-driven architecture targeting cloud deployment (AWS / Render)
+
+**Stack:** Python · CrewAI · OpenAI · Whisper (STT) · ElevenLabs (TTS) · Twilio · Streamlit · PostgreSQL
 
 ---
 
@@ -34,10 +38,10 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🏥 **VoxCare** *(in progress)* | Multi-agent voice AI system that automates hospital follow-up calls, triages patients by risk, and escalates critical cases to staff | Python · CrewAI · OpenAI · Whisper · ElevenLabs · Twilio · Streamlit |
 | 🤖 **[Market Research Crew](https://github.com/syed-kaif07/market-research-crew)** | 5-agent AI system that generates full market research reports autonomously | CrewAI · Groq · LLaMA 3.3 70B |
 | 🎌 **Anime Hub** | Open-source anime streaming platform — built from PRD to deployment using vibe coding | Next.js · TypeScript · Tailwind · PostgreSQL |
 | 🎬 **[CineX Streaming Platform](https://github.com/syed-kaif07/cinex-streaming-platform)** | Netflix-inspired full-stack streaming app with JWT auth & TMDB integration | Next.js · Node.js · MongoDB |
-| 📊 **AutoInsight** *(in progress)* | Multi-agent analytics platform with predictive modeling & AI-generated reports | Django · PostgreSQL · CrewAI |
 
 ---
 
@@ -46,11 +50,11 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 ```python
 {
   "languages":   ["Python", "JavaScript", "TypeScript"],
-  "ai_ml":       ["CrewAI", "LLaMA", "Groq", "Ollama", "Scikit-learn"],
+  "ai_ml":       ["CrewAI", "OpenAI", "LLaMA", "Groq", "Ollama", "Whisper", "Scikit-learn"],
   "backend":     ["Django", "Node.js", "Express", "REST APIs"],
   "frontend":    ["Next.js", "React", "Tailwind CSS", "Streamlit"],
-  "databases":   ["PostgreSQL", "MongoDB", "Supabase"],
-  "tools":       ["Git", "Docker", "JWT", "uv", "GitHub Actions"],
+  "databases":   ["PostgreSQL", "MongoDB", "Supabase", "SQLite"],
+  "tools":       ["Git", "Docker", "JWT", "uv", "GitHub Actions", "Twilio", "ElevenLabs"],
   "vibe_coding": ["Claude", "GitHub Copilot", "v0", "Cursor"]
 }
 ```
@@ -70,7 +74,7 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 
 ## 🎯 What I'm Looking For
 
-I'm actively seeking roles in **AI Engineering**, **Data Engineering**, or **Full Stack Development** where I can build intelligent, scalable systems that deliver measurable business impact.
+I'm actively seeking roles in **AI Engineer**, **Gen AI Engineer**, or **Full Stack Development** where I can build intelligent, scalable systems that deliver measurable business impact.
 
 I'm not looking to just write code — I want to build things that matter.
 
@@ -78,7 +82,7 @@ I'm not looking to just write code — I want to build things that matter.
 
 <div align="center">
 
-**📬 Let's connect → [LinkedIn](https://www.linkedin.com/in/syed-kaifuddin-113955253?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [GitHub](https://github.com/syed-kaif07)**
+**📬 Let's connect → [LinkedIn](https://www.linkedin.com/in/syed-kaifuddin-113955253?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Gmail](syedkaifuddin4@gmail.com)**
 
 *"Build systems that think, not just systems that run."*
 

@@ -50,12 +50,12 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 ```python
 {
   "languages":   ["Python", "JavaScript", "TypeScript"],
-  "ai_ml":       ["CrewAI", "OpenAI", "LLaMA", "Groq", "Ollama", "Whisper", "Scikit-learn"],
-  "backend":     ["Django", "Node.js", "Express", "REST APIs"],
+  "ai_ml":       ["CrewAI", "Anthropic", "OpenAI", "LLaMA", "Groq", "Ollama", "Whisper", "OpenRouter"],
+  "backend":     ["Django", "FastAPI", "REST APIs"],
   "frontend":    ["Next.js", "React", "Tailwind CSS", "Streamlit"],
   "databases":   ["PostgreSQL", "MongoDB", "Supabase", "SQLite"],
-  "tools":       ["Git", "Docker", "JWT", "uv", "GitHub Actions", "Twilio", "ElevenLabs"],
-  "vibe_coding": ["Claude", "GitHub Copilot", "v0", "Cursor"]
+  "tools":       ["AWS","Git", "Docker", "JWT", "uv", "Twilio", "ElevenLabs"],
+  "vibe_coding": ["Claude", "GitHub Copilot", "v0", "Cursor", "WindSurf"]
 }
 ```
 
@@ -82,7 +82,7 @@ I'm not looking to just write code — I want to build things that matter.
 
 <div align="center">
 
-**📬 Let's connect → [LinkedIn](https://www.linkedin.com/in/syed-kaifuddin-113955253?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Gmail](syedkaifuddin4@gmail.com)**
+**📬 Let's connect → [LinkedIn](https://www.linkedin.com/in/syed-kaifuddin-113955253?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
 *"Build systems that think, not just systems that run."*
 

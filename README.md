@@ -19,7 +19,7 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 
 ## 🔥 Currently Building
 
-### 🏥 VoxCare — AI Voice-Based Healthcare Follow-Up Automation System
+### 🏥 AIVORA — AI Voice-Based Healthcare Follow-Up Automation System
 
 > *A modular, multi-agent system that automates hospital follow-up workflows using voice AI — so healthcare staff can focus on patients, not phones*
 
@@ -38,7 +38,7 @@ My focus is on intelligent automation: systems where AI agents make decisions, g
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🏥 **VoxCare** *(in progress)* | Multi-agent voice AI system that automates hospital follow-up calls, triages patients by risk, and escalates critical cases to staff | Python · CrewAI · OpenAI · Whisper · ElevenLabs · Twilio · Streamlit |
+| 🏥 **AIVORA** *(in progress)* | Multi-agent voice AI system that automates hospital follow-up calls, triages patients by risk, and escalates critical cases to staff | Python · CrewAI · OpenAI · Whisper · ElevenLabs · Twilio · Streamlit |
 | 🤖 **[Market Research Crew](https://github.com/syed-kaif07/market-research-crew)** | 5-agent AI system that generates full market research reports autonomously | CrewAI · Groq · LLaMA 3.3 70B |
 | 🎌 **Anime Hub** | Open-source anime streaming platform — built from PRD to deployment using vibe coding | Next.js · TypeScript · Tailwind · PostgreSQL |
 | 🎬 **[CineX Streaming Platform](https://github.com/syed-kaif07/cinex-streaming-platform)** | Netflix-inspired full-stack streaming app with JWT auth & TMDB integration | Next.js · Node.js · MongoDB |

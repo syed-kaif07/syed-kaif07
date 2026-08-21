@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Syed Kaifuddin 👋
-### AI Systems Engineer · Full Stack Developer · Building Things That Actually Work
+### AI Engineer · Building Things That Matters
 
 [![GitHub followers](https://img.shields.io/github/followers/syed-kaif07?style=social)](https://github.com/syed-kaif07)
 [![Profile Views](https://komarev.com/ghpvc/?username=syed-kaif07&color=blueviolet&style=flat)](https://github.com/syed-kaif07)

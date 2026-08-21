@@ -12,7 +12,7 @@
 
 ## 🧠 What I Actually Do
 
-I build **AI-powered systems** and **full-stack applications** —
+I build **AI-powered Systems**, **Advanced RAG Systems** and **full-stack applications** —
 My focus is on intelligent automation: systems where AI agents make decisions, generate insights, and take action without constant human input. I also practice **vibe coding** — using AI tools to rapidly design, prototype, and ship production-ready apps from idea to deployment.
 
 ---
